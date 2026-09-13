@@ -1,0 +1,22 @@
+# Web Framework
+fastapi
+uvicorn[standard]
+jinja2
+python-multipart
+
+# HTTP Client
+httpx
+
+# Data Validation
+pydantic
+pydantic-settings
+
+# Vector Database
+qdrant-client
+
+# Embeddings
+sentence-transformers
+
+# Testing
+pytest
+httpx
